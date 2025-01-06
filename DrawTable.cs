@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ML2;
+namespace YourNamespace;
 
 public class DrawTableClass
 {
